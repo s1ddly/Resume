@@ -7832,8 +7832,6 @@ textarea.form-control-lg {
 }
 
 .bg-anim {
-  width: 100wh;
-  height: 90vh;
   color: #fff;
   background: linear-gradient(-45deg, #76b5c5, #1e81b0, #063970, #111);
   background-size: 400% 400%;
